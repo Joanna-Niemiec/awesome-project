@@ -1,0 +1,3 @@
+[submodule "awesome-module"]
+	path = awesome-module
+	url = https://github.com/Joanna-Niemiec/awesome-module
